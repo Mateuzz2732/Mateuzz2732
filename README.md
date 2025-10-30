@@ -53,7 +53,7 @@ Vamos evoluir juntos! 🚀
   </td>
 <td>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-CleanCode&layout=compact&langs_count=30&theme=radical&hide_border=false&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuzz2732&layout=compact&langs_count=30&theme=radical&hide_border=false&include_all_commits=true&count_private=true" 
     alt="Most Used Languages and Tools" 
   />
 </td>
@@ -82,14 +82,13 @@ Vamos evoluir juntos! 🚀
 <h2 align="center">Minha atividade no GitHub</h2>
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davi-CleanCode&bg_color=1a1b27&color=6e93b5&line=ffffff&point=6e93b5&area=true&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateuzz2732e&bg_color=1a1b27&color=6e93b5&line=ffffff&point=6e93b5&area=true&hide_border=true">
   </a>
 </p>
 
 
 
-![Snake animation](https://github.com/Mateuzz2732/Mateuzz2732/blob/output/github-contribution-grid-snake.svg)
-
+![Pacman come commits](./pacman-commits.svg)
 <div>
 <img align="center" alt="Header" src="https://github.com/DevLuxor08/DevLuxor08/blob/main/GIF/GifMario.gif" />
 </div>
